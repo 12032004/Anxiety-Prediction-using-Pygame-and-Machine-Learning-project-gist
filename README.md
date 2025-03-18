@@ -61,5 +61,3 @@ This project is open-source and available for use under the MIT License.
 
 ---
 
-Let me know if you need any modifications or additional sections!
-
